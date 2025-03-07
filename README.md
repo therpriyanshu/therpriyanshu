@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey 👋, I'm Priyanshu Kumar!  
 
-<!--
-**therpriyanshu/therpriyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year CSE Student @ Centurion University**  
+💻 **Aspiring Full-Stack Developer | Python & Java Enthusiast**  
+🚀 **Currently learning React & .NET**  
+🎯 **Goal: Become an IAS officer & grow in the tech field**  
 
-Here are some ideas to get you started:
+## 🔥 Main Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect with Me  
+📧 **Email:** [priyanshu@example.com](mailto:priyanshu@example.com)  
+🔗 **LinkedIn:** [Priyanshu Kumar](https://www.linkedin.com/in/priyanshu70/)  
+💻 **GitHub:** [therpriyanshu](https://github.com/therpriyanshu)  
