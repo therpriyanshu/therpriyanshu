@@ -1,37 +1,21 @@
-<h1 align="center">Hey 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">A passionate developer, learner, and tech enthusiast from India.</h3>
+<!-- Profile Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9E0&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Priyanshu+Kumar;Full+Stack+Developer+%7C+Tech+Enthusiast;AI%2FML+Lover+%7C+Web+Dev+Learner;Open-Source+Contributor" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **React Portfolio & Web API in .NET**
-- 🌱 I’m currently learning **React, JavaScript, and .NET**
-- 💬 Ask me about **Python, Django, Flask, Java, Web Development**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priyanshu70/)** 
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love sad music & motovlogging (when I can afford a bike 😆).**
-
----
-
-## **🛠️ Main Skills**
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
+<!-- About Section -->
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🎓 Final Year B.Tech CSE Student at <b>Centurion University</b></li>
+  <li>⚡ Passionate about <b>Web Development, Machine Learning, and Cybersecurity</b></li>
+  <li>🌱 Currently learning <b>React, .NET, and Advanced JavaScript</b></li>
+  <li>🎯 Aspiring <b>Software Engineer & Future IAS Officer</b></li>
+  <li>🎵 Enjoys <b>sad music</b> and dreams of <b>motovlogging</b> someday</li>
+</ul>
 
 ---
 
-## **📚 My Favorite Tools & Technologies**
+## **🛠️ Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,nodejs,html,css,django,flask,mysql,mongodb,git,github,dotnet,vscode" />
 </p>
 
 ---
@@ -39,6 +23,25 @@
 ## **📊 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therpriyanshu&theme=tokyonight" />
+</p>
+
+---
+
+## **🚀 Projects**
+### 🔥 Featured Projects
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| **[Visually Paraphrase Extraction](https://github.com/therpriyanshu/Visually-Paraphrase-Extraction)** | A tool that generates 5 paraphrased versions of input text using GPT-4 for better understanding. | Python, Flask, GPT-4 |
+| **Portfolio Website** | A React-based personal portfolio to showcase my skills, projects, and blogs. | React, Tailwind, Framer Motion |
+| **Weather Website** | A simple JavaScript app fetching live weather data based on user input. | JavaScript, HTML, CSS, OpenWeather API |
+
+---
+
+## **📌 GitHub Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therpriyanshu&theme=tokyo-night" />
 </p>
 
 ---
@@ -52,3 +55,8 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+---
+
+## **🎵 Fun Fact**
+> "A good playlist of sad songs is better than any therapy!" 🎶
