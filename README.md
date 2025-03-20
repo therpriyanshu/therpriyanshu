@@ -1,26 +1,27 @@
 <!-- Profile Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9E0&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Priyanshu+Kumar;Full+Stack+Developer+%7C+Tech+Enthusiast;AI%2FML+Lover+%7C+Web+Dev+Learner;Open-Source+Contributor" alt="Typing SVG" />
-
-<!-- About Section -->
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🎓 Final Year B.Tech CSE Student at <b>Centurion University</b></li>
-  <li>⚡ Passionate about <b>Web Development, Machine Learning, and Cybersecurity</b></li>
-  <li>🌱 Currently learning <b>React, .NET, and Advanced JavaScript</b></li>
-  <li>🎯 Aspiring <b>Software Engineer & Future IAS Officer</b></li>
-  <li>🎵 Enjoys <b>sad music</b> and dreams of <b>motovlogging</b> someday</li>
-</ul>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9E0&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Priyanshu+Kumar;Full+Stack+Developer+%7C+Tech+Enthusiast;AI%2FML+Lover+%7C+Web+Dev+Learner;Open-Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-## **🛠️ Tech Stack**
+## 👨‍💻 **About Me**
+- 🎓 Final Year **B.Tech CSE Student** at **Centurion University**
+- ⚡ Passionate about **Web Development, Machine Learning, and Cybersecurity**
+- 🌱 Currently learning **React, .NET, and Advanced JavaScript**
+- 🎯 Aspiring **Software Engineer & Future IAS Officer**
+- 🎵 Enjoys **sad music** and dreams of **motovlogging** someday
+
+---
+
+## 🛠️ **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,react,js,nodejs,html,css,django,flask,mysql,mongodb,git,github,dotnet,vscode" />
 </p>
 
 ---
 
-## **📊 GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight" />
   <br />
@@ -29,7 +30,7 @@
 
 ---
 
-## **🚀 Projects**
+## 🚀 **Projects**
 ### 🔥 Featured Projects
 | Project | Description | Tech Stack |
 |---------|------------|------------|
@@ -39,14 +40,14 @@
 
 ---
 
-## **📌 GitHub Contribution Graph**
+## 📌 **GitHub Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=therpriyanshu&theme=tokyo-night" />
 </p>
 
 ---
 
-## **📫 Connect With Me**
+## 📫 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshu70/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
@@ -58,5 +59,5 @@
 
 ---
 
-## **🎵 Fun Fact**
+## 🎵 **Fun Fact**
 > "A good playlist of sad songs is better than any therapy!" 🎶
