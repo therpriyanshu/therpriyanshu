@@ -5,9 +5,8 @@
 - 👍 Experienced in DevOps, CI/CD, and cloud infrastructure, especially with Firebase and AWS.
 - 😍 Developed AI-powered applications, including a paraphrasing tool using GPT-4.
 - 😉 Deep knowledge of Machine Learning, Data Science, and Web Security.
-- 
-# Main Skills #
 
+  
 # Main Skills #
 
 <a href="https://developer.android.com/reference">
