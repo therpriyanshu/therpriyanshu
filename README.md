@@ -5,10 +5,10 @@
 - 👍 Experienced in DevOps, CI/CD, and cloud infrastructure, especially with Firebase and AWS.
 - 😍 Developed AI-powered applications, including a paraphrasing tool using GPT-4.
 - 😉 Deep knowledge of Machine Learning, Data Science, and Web Security.
-
+- 
 # Main Skills #
 
-<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
+<a href="[https://developer.android.com/reference](https://wallpapercave.com/wp/xfavsWA.jpg)"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
 <a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
