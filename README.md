@@ -12,9 +12,6 @@
 <a href="https://developer.android.com/reference">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/2048px-Android_robot.svg.png" alt="android" height="100" title="Android reference">
 </a>
-<a href="https://reactnative.dev/docs/getting-started">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-native" height="100" title="React-Native documentation">
-</a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="100" title="React documentation">
 </a>
