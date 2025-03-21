@@ -164,13 +164,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Support My Late-Night Debugging:</h3>
-<p>If my open-source contributions have helped you, consider supporting my late-night coding sessions!</p>
 <p>
   <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-    <img src="https://i.imgur.com/dZ9oNCa.png" height="50" width="210" alt="Support My Late-Night Debugging">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/late-night-debugging.png" height="50" width="210" alt="Support My Late-Night Debugging">
   </a>
 </p>
+
 
 ### Connect with me:
 
