@@ -164,8 +164,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Madhavsameer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Madhavsameer" /></a></p><br><br>
+<h3 align="left">Support My Late-Night Debugging:</h3>
+<p>If my open-source contributions have helped you, consider supporting my late-night coding sessions!</p>
+<p>
+  <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
+    <img src="https://i.imgur.com/dZ9oNCa.png" height="50" width="210" alt="Support My Late-Night Debugging">
+  </a>
+</p>
 
 ### Connect with me:
 
