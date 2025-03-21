@@ -9,9 +9,6 @@
   
 # Main Skills #
 
-<a href="https://developer.android.com/reference">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/2048px-Android_robot.svg.png" alt="android" height="100" title="Android reference">
-</a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="100" title="React documentation">
 </a>
@@ -106,34 +103,33 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
+
             
-            
- </tr>
+</tr>
 </table>
 <br><br>
 
-
 </div>
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavsameer&theme=tokyonight" width="350">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavsameer&theme=tokyonight&utcOffset=8" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="350">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=8" width="350">
 </div>
 
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsameer&theme=tokyonight" width="350"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsameer&theme=tokyonight" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="350"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="350">
 </div>
 
 <div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavsameer&theme=tokyonight" width="900">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="900">
 </div>
 
   <p align="left">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhavsameer&theme=tokyonight&column=-1" alt="madhavsameer" />
+    <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&column=-1" alt="therpriyanshu" />
   </a>  
 </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/priyanshu70/" target="blank"><img src="https://img.shields.io/twitter/follow/therpriyanshu?logo=linkedin&style=for-the-badge" alt="therpriyanshu" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/madhavsameer/" target="blank"><img src="https://img.shields.io/twitter/follow/madhavsameer?logo=linkedin&style=for-the-badge" alt="madhavsameer" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud-Kitchen-fullstack webapp**
 
