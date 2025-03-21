@@ -162,8 +162,6 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p>
   <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
     <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/late-night-debugging.png" height="50" width="210" alt="Support My Late-Night Debugging">
