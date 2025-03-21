@@ -8,14 +8,33 @@
 - 
 # Main Skills #
 
-<a href="https://wallpapercave.com/wp/xfavsWA.jpg"><img alt="android" height="100" title="Android reference"></a>
-<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
-<a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
-<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+# Main Skills #
+
+<a href="https://developer.android.com/reference">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/2048px-Android_robot.svg.png" alt="android" height="100" title="Android reference">
+</a>
+<a href="https://reactnative.dev/docs/getting-started">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-native" height="100" title="React-Native documentation">
+</a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="100" title="React documentation">
+</a>
+<a href="https://angular.io/start">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="100" title="Angular documentation">
+</a>
+<a href="https://nodejs.org/en/docs/guides">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" height="100" title="Node documentation">
+</a>
+<a href="https://www.php.net/manual/en/index.php">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" height="100" title="PHP documentation">
+</a>
+<a href="https://docs.oracle.com/en/java/">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" height="100" title="Java documentation">
+</a>
+<a href="https://docs.python.org/3/library/index.html">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height="100" title="Python documentation">
+</a>
+
 
 
 
