@@ -158,8 +158,11 @@
   <a href="https://github.com/therpriyanshu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/priyanshu70/" target="blank">
+  <a href="https://linkedin.com/in/priyanshu70/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/therpriyanshu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/therpriyanshu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
@@ -170,11 +173,11 @@
   <a href="https://leetcode.com/therpriyanshu/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/therpriyanshu" target="blank">
-    <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" height="30" width="40" />
-  </a>
   <a href="https://www.hackerrank.com/therpriyanshu" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/therpriyanshu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
 </p>
 
