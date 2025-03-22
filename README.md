@@ -165,7 +165,7 @@
 <h3 align="left">Power Up My Code:</h3>
 <p>If my projects have helped you, consider boosting my energy with a coffee!</p>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://i.imgur.com/t4dVr27.jpeg" alt="Power Up My Code" width="210" height="50">
+  <img src="https://i.imgur.com/SJjp67l.png" alt="Power Up My Code" width="210" height="50">
 </a>
 
 
