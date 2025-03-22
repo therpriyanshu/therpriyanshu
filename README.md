@@ -170,9 +170,9 @@
 
 <style>
   .circular-image {
-    width: 150px; /* Adjust size as needed */
-    height: 150px;
-    border-radius: 50%;
+    width: 50px; /* Adjust size as needed */
+    height: 50px;
+    border-radius: 40%;
     object-fit: cover;
   }
 </style>
