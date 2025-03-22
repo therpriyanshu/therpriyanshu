@@ -162,11 +162,11 @@
 </p>
 
 
-<p>
-  <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/late-night-debugging.png" height="50" width="210" alt="Support My Late-Night Debugging">
-  </a>
-</p>
+<h3 align="left">Support My Late-Night Debugging:</h3>
+<p>If my open-source contributions have helped you, consider supporting my late-night coding sessions!</p>
+<a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
+  <img src="https://i.imgur.com/qDpi9w8.jpeg" alt="Support My Late-Night Debugging" width="300">
+</a>
 
 
 ### Connect with me:
