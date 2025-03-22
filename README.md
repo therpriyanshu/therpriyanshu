@@ -165,8 +165,17 @@
 <h3 align="left">Power Up My Code:</h3>
 <p>If my projects have helped you, consider boosting my energy with a coffee!</p>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://i.imgur.com/CuTF0fy.jpeg" alt="Power Up My Code" width="100" height="100" style="border-radius: 50%;">
+  <img src="https://i.imgur.com/CuTF0fy.jpeg" alt="Power Up My Code" class="circular-image">
 </a>
+
+<style>
+  .circular-image {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+</style>
 
 
 
