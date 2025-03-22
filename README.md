@@ -165,22 +165,9 @@
 <h3 align="left">Power Up My Code:</h3>
 <p>If my projects have helped you, consider boosting my energy with a coffee!</p>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://i.imgur.com/SJjp67l.png" alt="Power Up My Code" class="coffee-button">
+  <img src="https://i.imgur.com/CuTF0fy.jpeg" alt="Power Up My Code" width="100" height="100" style="border-radius: 50%;">
 </a>
 
-<style>
-  .coffee-button {
-    width: 210px;
-    height: 50px;
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    border-radius: 10px;
-  }
-
-  .coffee-button:hover {
-    transform: scale(1.1);
-    box-shadow: 0px 4px 15px rgba(255, 165, 0, 0.6);
-  }
-</style>
 
 
 
