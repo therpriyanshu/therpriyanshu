@@ -155,11 +155,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="therpriyanshu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyanshu70/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu70" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therpriyanshu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="therpriyanshu" height="30" width="40" /></a>
+  <a href="https://github.com/therpriyanshu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshu70/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/therpriyanshu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/therpriyanshu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/therpriyanshu/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/therpriyanshu" target="blank">
+    <img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/therpriyanshu" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Support My Work:</h3>
@@ -167,11 +185,3 @@
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="210" height="50">
 </a>
-
-
-
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu70/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therpriyanshu)
