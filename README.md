@@ -162,20 +162,11 @@
 </p>
 
 
-<h3 align="left">Power Up My Code:</h3>
-<p>If my projects have helped you, consider boosting my energy with a coffee!</p>
+<h3 align="left">Support My Work:</h3>
+<p>Enjoying my content? Help fuel my coding journey!</p>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://i.imgur.com/CuTF0fy.jpeg" alt="Power Up My Code" class="circular-image">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="210" height="50">
 </a>
-
-<style>
-  .circular-image {
-    width: 50px; /* Adjust size as needed */
-    height: 50px;
-    border-radius: 40%;
-    object-fit: cover;
-  }
-</style>
 
 
 
