@@ -165,7 +165,7 @@
 <h3 align="left">Support My Late-Night Debugging:</h3>
 <p>If my open-source contributions have helped you, consider supporting my late-night coding sessions!</p>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://i.imgur.com/qDpi9w8.jpeg" alt="Support My Late-Night Debugging" width="300">
+  <img src="https://i.imgur.com/qDpi9w8.jpeg" alt="Support My Late-Night Debugging" width="210" height="50">
 </a>
 
 
