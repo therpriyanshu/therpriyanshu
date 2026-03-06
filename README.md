@@ -1,200 +1,138 @@
-![Profile views](https://komarev.com/ghpvc/?username=therpriyanshu&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
 
-## Hey 👋, This is Priyanshu Kumar
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Priyanshu+Kumar;Full-Stack+Developer+%F0%9F%9A%80;Building+the+Web%2C+One+Line+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
-- 🌳 Full-Stack Developer skilled in building end-to-end web applications using modern frontend and backend technologies.
-- 🌱 Proficient in **JavaScript**, **React.js**, **Node.js**, **Python**, and **MySQL**.
-- 👍 Experienced in DevOps, CI/CD, and cloud infrastructure — especially with **Firebase** and **AWS**.
-- 😍 Built AI-powered applications and worked on Machine Learning projects including a Titanic survival prediction model with 84% accuracy.
-- 🎓 B.Tech in Computer Science & Engineering — Centurion University of Technology and Management (CGPA: 8.36/10, 2025)
-- ⚡ Fun fact: I love listening to music, especially sad songs 🎵
+<!-- Profile Views + Followers badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=therpriyanshu&label=Profile%20Views&color=58A6FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/therpriyanshu?label=Followers&style=flat-square&color=58A6FF)](https://github.com/therpriyanshu)
 
----
-
-# Main Skills
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="80" title="JavaScript" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://legacy.reactjs.org/docs/getting-started.html">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" height="80" title="React.js" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/en/docs/guides">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="80" title="Node.js" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://docs.python.org/3/library/index.html">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="80" title="Python" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.mysql.com/doc/">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="80" title="MySQL" />
-  </a>
-</p>
-
----
-
-# 💻 My favorite tools and technologies
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
 </div>
 
-<br>
-
 ---
 
----
+## 👨‍💻 About Me
 
-# 📊 GitHub Analytics
+```yaml
+Name     : Priyanshu Kumar
+Role     : Full-Stack Developer
+Location : India 🇮🇳
+Education: B.Tech CSE — Centurion University (CGPA: 8.36 / 10, 2025)
+Email    : priyanshukr810@gmail.com
+Portfolio: https://therpriyanshu.netlify.app
+```
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="48%" />
-</p>
-
----
-
----
-
----
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&column=-1" alt="therpriyanshu" />
-  </a>
-</p>
-
----
-
-- 🔭 I'm currently working on **React Portfolio & Weather Web App**
-- 🌱 I'm currently learning **JavaScript, React, .NET with C#**
-- 👯 I'm looking to collaborate on **Web Development Projects**
-- 🤝 I'm looking for help with **.NET Web API Development**
-- 👨‍💻 All of my projects are available at [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
-- 💬 Ask me about **JavaScript, React.js, Node.js, Python**
-- 📫 Reach me at **priyanshukr810@gmail.com**
-- 📄 Know about my experiences [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
+- 🔭 Currently building: **React Portfolio & Weather Web App**
+- 🌱 Currently learning: **JavaScript, React, .NET with C#**
+- 👯 Open to collaborate on: **Web Development Projects**
+- 💬 Ask me about: **JavaScript · React.js · Node.js · Python**
 - ⚡ Fun fact: I love listening to music, especially sad songs 🎵
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/priyanshu70/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/therpriyanshu/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/therpriyanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-</p>
+## 🚀 Main Skills
 
-<h3 align="left">Support:</h3>
+<div align="center">
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+
+**Backend & Database**
+
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+**DevOps & Tools**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therpriyanshu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=therpriyanshu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therpriyanshu&theme=tokyo-night&hide_border=true&area=true" width="900" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu70/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therpriyanshu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://therpriyanshu.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukr810@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/therpriyanshu)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/therpriyanshu)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/therpriyanshu/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/therpriyanshu)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/therpriyanshu)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/therpriyanshu)
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="210" height="50">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" />
 </a>
+
+<br/><br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
