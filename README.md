@@ -1,4 +1,6 @@
-## Hey 👋, I'm Priyanshu Kumar
+![Profile views](https://komarev.com/ghpvc/?username=therpriyanshu&label=Profile%20views&color=0e75b6&style=flat)
+
+## Hey 👋, This is Priyanshu Kumar
 
 - 🌳 Full-Stack Developer skilled in building end-to-end web applications using modern frontend and backend technologies.
 - 🌱 Proficient in **JavaScript**, **React.js**, **Node.js**, **Python**, and **MySQL**.
@@ -9,7 +11,7 @@
 
 ---
 
-# 🚀 Main Skills
+# Main Skills
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -35,7 +37,7 @@
 
 ---
 
-# 💻 My Favorite Tools & Technologies
+# 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -114,7 +116,27 @@
 
 ---
 
-# 📌 About Me
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="350">
+</div>
+
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="350">
+</div>
+
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="900">
+</div>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&column=-1" alt="therpriyanshu" />
+  </a>
+</p>
+
+---
 
 - 🔭 I'm currently working on **React Portfolio & Weather Web App**
 - 🌱 I'm currently learning **JavaScript, React, .NET with C#**
@@ -124,24 +146,13 @@
 - 💬 Ask me about **JavaScript, React.js, Node.js, Python**
 - 📫 Reach me at **priyanshukr810@gmail.com**
 - 📄 Know about my experiences [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
+- ⚡ Fun fact: I love listening to music, especially sad songs 🎵
 
----
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-# 🏆 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therpriyanshu&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=therpriyanshu&theme=tokyonight" width="700"/>
-</div>
-
----
-
-# 🤝 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/therpriyanshu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -169,10 +180,7 @@
   </a>
 </p>
 
----
-
-<h3 align="left">☕ Support My Work:</h3>
-<p>Enjoying my content? Help fuel my coding journey!</p>
+<h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="210" height="50">
 </a>
