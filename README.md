@@ -116,19 +116,21 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="350">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="350">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="350" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="350">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="350">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="350" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="900">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="720" />
 </div>
+
+---
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
