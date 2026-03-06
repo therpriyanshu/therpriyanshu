@@ -115,15 +115,6 @@ const priyanshu = {
 
 </div>
 
-| 🚀 Project | 🛠 Tech Stack | 🔗 Link |
-|---|---|---|
-| **Job Portal Web App** | React.js, Node.js, JWT, MongoDB | [Live 🔗](https://therpriyanshu.netlify.app) |
-| **Property Buy/Sell Platform** | React.js, useEffect, Netlify | [Live 🔗](https://therpriyanshu.netlify.app) |
-| **Personal Blogging App** | MERN Stack, Firebase | [Live 🔗](https://therpriyanshu.netlify.app) |
-| **Titanic Survival Predictor** | Python, Machine Learning, Logistic Regression | [Repo 🔗](https://github.com/therpriyanshu) |
-
----
-
 ## 🎖️ Certifications & Awards
 
 - 🏅 **Data Science Internship Certificate** — CodeSoft
