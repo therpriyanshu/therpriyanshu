@@ -116,18 +116,31 @@
 
 ---
 
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therpriyanshu&layout=compact&theme=tokyonight&langs_count=8" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="900"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=therpriyanshu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="720" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="420"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therpriyanshu&theme=tokyo-night&hide_border=true" width="900" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="420"/>
+
 </div>
+
+---
 
 ---
 
