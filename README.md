@@ -133,6 +133,6 @@ Portfolio: https://therpriyanshu.netlify.app
 
 <br/><br/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."* — Priyanshu Kumar
 
 </div>
