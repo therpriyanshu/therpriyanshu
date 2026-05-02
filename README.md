@@ -1,314 +1,187 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--suppress HtmlDeprecatedAttribute -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Priyanshu%20Kumar&fontSize=70&fontColor=fff&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Python&descSize=20&descAlign=50&descAlignY=58&animation=twinkling" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="therpriyanshu" /> </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    BADGES + VIEWS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# Hey👋, This is Priyanshu Kumar  #
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=therpriyanshu&label=👁️%20Profile%20Views&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/therpriyanshu?label=Followers&style=for-the-badge&logo=github&color=blueviolet)](https://github.com/therpriyanshu?tab=followers)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge)](https://therpriyanshu.netlify.app)
+<div>
+<br/>
+- 🔭 Full-stack developer with hands-on experience designing and building scalable, high-performance web applications<br/>
+- 🌱 Proficient in front-end technologies like React, as well as back-end technologies like Node.js, Express.js and Python<br/>
+- 👍 Experienced in cloud infrastructure, especially with AWS, Netlify and Vercel<br/>
+- 😍 Developed Data Science projects and integrated APIs into web apps.<br/>
+- 😉 Deep knowledge about JavaScript ecosystem, databases like MySQL & MongoDB, and modern dev tooling.</br>
 
 </div>
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+# Main Skills #
 
-<div align="center">
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" height="100" title="JavaScript documentation"></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" height="100" title="TypeScript documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://www.mysql.com/"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="100" title="MySQL documentation"></a>
+<a href="https://aws.amazon.com"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" height="100" title="AWS documentation"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Priyanshu+Kumar+%F0%9F%91%8B;Full-Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+things+for+the+web+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+MySQL;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-</div>
 
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🧑‍💻 &nbsp;About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
-
-```javascript
-const priyanshu = {
-  name     : "Priyanshu Kumar",
-  role     : "Full-Stack Developer 🚀",
-  location : "India 🇮🇳",
-
-  education: {
-    degree : "B.Tech — Computer Science & Engineering",
-    uni    : "Centurion University",
-    cgpa   : "8.36 / 10",
-    year   : 2025,
-  },
-
-  contact: {
-    email     : "priyanshukr810@gmail.com",
-    portfolio : "therpriyanshu.netlify.app",
-    linkedin  : "linkedin.com/in/priyanshu70",
-  },
-
-  currentFocus   : "React Portfolio & Weather Web App",
-  openTo         : ["Collaborations", "Freelance", "Open Source"],
-  askMeAbout     : ["React", "Node.js", "Python", "JavaScript"],
-  funFact        : "I debug with sad songs playing 🎵",
-};
-```
-
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SKILLS - MAIN                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Main Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mysql&theme=dark&perline=5" height="80" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Full Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML5</b></sub>
+# 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS3</b></sub>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub><b>TypeScript</b></sub>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React.js</b></sub>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>  
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/><sub><b>Bootstrap</b></sub>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
   </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
+  <>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub><b>Express.js</b></sub>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><sub><b>MySQL</b></sub>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/><sub><b>MongoDB</b></sub>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/><sub><b>Firebase</b></sub>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub><b>AWS</b></sub>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/><sub><b>Netlify</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/><sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
-    </td>
-  </tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+            
+            
+ </tr>
 </table>
+<br><br>
+
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therpriyanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therpriyanshu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=therpriyanshu&theme=tokyonight" width="350">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=therpriyanshu&theme=tokyonight&utcOffset=5.5" width="350">
 </div>
 
-<div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=therpriyanshu&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=therpriyanshu&theme=tokyonight" width="350"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=therpriyanshu&theme=tokyonight" width="350">
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therpriyanshu/therpriyanshu/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therpriyanshu/therpriyanshu/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/therpriyanshu/therpriyanshu/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
+<div style="display: flex; align-items: center; gap: 2vh; justify-content: center; margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=therpriyanshu&theme=tokyonight" width="900">
 </div>
 
----
+  <p align="left">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&column=-1" alt="therpriyanshu" />
+  </a>  
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📈 &nbsp;Activity Graph
+<p align="left"> <a href="https://www.linkedin.com/in/priyanshu70/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="therpriyanshu" /></a> </p>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=therpriyanshu&theme=tokyo-night&hide_border=true&area=true&area_color=A855F7&color=A855F7&line=A855F7&point=ffffff&bg_color=0d1117"/>
-</div>
+- 🔭 I'm currently working on **React Portfolio & Weather Web App**
 
----
+- 🌱 I'm currently learning **TypeScript, AWS & System Design**
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-## 🏆 &nbsp;GitHub Trophies
+- 🤝 I'm looking for help with **Freelance & Collaboration opportunities**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therpriyanshu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
+- 👨‍💻 All of my projects are available at [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
 
----
+- 💬 Ask me about **React, Node.js, Python, JavaScript**
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+- 📫 How to reach me **priyanshukr810@gmail.com**
 
-## 🎖️ &nbsp;Certifications
+- 📄 Know about my experiences [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
 
-<div align="center">
+- ⚡ Fun fact **I debug with sad songs playing 🎵**
 
-| 🏅 Certificate | 🏢 Issuer | 📅 Year |
-|:---|:---|:---|
-| Data Science Internship | CodeSoft | 2024 |
-| Python Programming | Kaggle | 2024 |
-| B.Tech — Computer Science & Engineering | Centurion University | 2025 |
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu70" height="30" width="40" /></a>
+<a href="mailto:priyanshukr810@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://instagram.com/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therpriyanshu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therpriyanshu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="therpriyanshu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therpriyanshu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="therpriyanshu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/therpriyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="therpriyanshu" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    RANDOM DEV JOKE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 😄 &nbsp;Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu70/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukr810@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://therpriyanshu.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therpriyanshu)
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/therpriyanshu)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/therpriyanshu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/therpriyanshu/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/therpriyanshu)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/therpriyanshu)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/therpriyanshu)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SUPPORT + QUOTE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ☕ &nbsp;Support My Work
-
-<a href="https://www.buymeacoffee.com/therpriyanshu" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"/>
-</a>
-
-<br/><br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-*Thanks for visiting! Drop a ⭐ if you like what you see!*
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/therpriyanshu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="therpriyanshu" /></a></p><br><br>
