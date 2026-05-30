@@ -20,7 +20,6 @@
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="https://skillicons.dev/icons?i=nodejs" alt="node" height="100" title="Node documentation"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" height="100" title="JavaScript documentation"></a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" height="100" title="TypeScript documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://www.mysql.com/"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="100" title="MySQL documentation"></a>
 <a href="https://aws.amazon.com"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" height="100" title="AWS documentation"></a>
