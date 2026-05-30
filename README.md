@@ -135,7 +135,7 @@
 
 - 🤝 I'm looking for help with **Freelance & Collaboration opportunities**
 
-- 👨‍💻 All of my projects are available at [https://therpriyanshu.netlify.app](https://therpriyanshu.netlify.app)
+- 👨‍💻 All of my projects are available at [https://therpriyanshu.netlify.app]([https://therpriyanshu.netlify.app](https://app.netlify.com/teams/therpriyanshu))
 
 - 💬 Ask me about **React, Node.js, Python, JavaScript**
 
